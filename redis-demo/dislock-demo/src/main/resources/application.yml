@@ -1,0 +1,7 @@
+server:
+  port: 18080
+
+spring:
+  redis:
+    host: 192.168.30.201
+    port: 6382

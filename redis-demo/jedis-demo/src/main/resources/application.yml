@@ -1,0 +1,21 @@
+spring:
+  cache:
+    type: redis
+    cache-names: pc
+  redis:
+    database: 0
+    host: 192.168.30.201
+    port: 6382
+#    password: test
+#    sentinel:
+#      master: mymaster
+#      nodes: 192.168.30.201:26380,192.168.30.201:26381,192.168.30.201:26382
+#    cluster:
+#      nodes: 192.168.30.201:6390,192.168.30.201:6391,192.168.30.201:6392,192.168.30.201:6393,192.168.30.201:6394,192.168.30.201:6395
+#    jedis:
+#      pool:
+#        min-idle: 0
+#        max-active: 8
+#        max-idle: 8
+#        max-wait: -1ms
+#    connect-timeout: 30000ms

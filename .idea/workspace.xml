@@ -4,17 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19487c54-94a1-4fcc-a6c2-6c3e99ad73d6" name="Changes" comment="" />
+    <list default="true" id="95971078-9aff-448b-af7d-5f653270de52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/genericity/Genericity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/jvm/DeathLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/jvm/Debuger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/jvm/Jps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/jvm/OomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/jvm/Tmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/stream/GetStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/stream/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/stream/Reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/string/CharToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/thread/CreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/thread/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/thread/ThreadDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/thread/ThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/thread/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-demo/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring-demo/arthas-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring-demo/arthas-demo/src/MathGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monitoring-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-demo/mybatis-plus-demo/src/main/java/com/example/mybatisplusdemo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-demo/mybatis-plus-demo/src/main/java/com/example/mybatisplusdemo/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-demo/mybatis-plus-demo/src/main/java/com/example/mybatisplusdemo/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-demo/mybatis-plus-demo/src/main/java/com/example/mybatisplusdemo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-demo/mybatis-plus-demo/src/test/java/com/example/mybatisplusdemo/add/SaveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/dislock-demo/http/rest-api.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/dislock-demo/src/main/java/com/gontoy/dislock/config/RedissionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/dislock-demo/src/main/java/com/gontoy/dislock/controller/SeckillController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/jedis-demo/src/main/java/com/gontoy/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/jedis-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/jedis-demo/src/test/java/com/gontoy/jedis/RedisTemplateTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/redission-demo/src/main/java/com/gontoy/redission/config/RedissionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/redission-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/annotation/AuthChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/aspect/ExpiredAopAdviseDefine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/aspect/HttpAopAdviseDefine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/aspect/LogAopAdviseDefine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/controller/ExpiredController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/controller/HttpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/controller/LogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/service/NeedLogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/service/NormalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/java/com/gontoy/spring/service/SomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/target/classes/com/gontoy/spring/aspect/ExpiredAopAdviseDefine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/target/classes/com/gontoy/spring/aspect/LogAopAdviseDefine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/target/classes/com/gontoy/spring/controller/ExpiredController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-demo/spring-aop-demo/target/classes/com/gontoy/spring/service/SomeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-demo/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-demo/src/main/resources/archetype-resources/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-demo/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-demo/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-demo/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-demo/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/jvm/DeathLockTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/redis-demo/jedis-demo/src/main/java/com/gontoy/config/RedisConfig.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,38 +91,169 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="C:\MyDisk\A-Config\Maven\3.8.1\maven-repo" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../../../A-Config/Maven/3.8.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\MyDisk\A-Config\Maven\3.8.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2MlhoxjcweZ8n4VIf0RnJU2dbh8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2PKpF6dSud1t6SqKJIDuFHjRaWP" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelOrder2": "2",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth2": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/MyDisk/A-Code/Java/KnowSys/Gtool-B",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/MyDisk/A-Code/Java/KnowSys/Gdemo-B/java_pid23076.hprof",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.27974948",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "747d8612fb4f8422d2a4ac1c66810367"
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyDisk\A-Code\Java\KnowSys\Gdemo-B\monitoring-demo\arthas-demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MyDisk\A-Code\Java\KnowSys\Gdemo-B" />
+      <recent name="C:\MyDisk\A-Code\Java\KnowSys\Gdemo-B\spring-demo" />
+      <recent name="C:\MyDisk\A-Code\Java\KnowSys\Gdemo-B\queue-demo" />
+      <recent name="C:\MyDisk\A-Code\Java\KnowSys\Gdemo-B\mysql-demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="excludedTypes">
+      <set>
+        <option value="HttpClient.HttpRequestRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringDemoApplication">
+    <configuration name="DeathLockTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gontoy.jvm.DeathLockTest" />
+      <module name="java-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gontoy.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeathLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gontoy.jvm.DeathLockTest" />
+      <module name="java-demo" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintCommandLineFlags" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gontoy.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/spring-demo/http/api.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="DislockDemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="dislock-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gontoy.dislock.DislockDemoApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gontoy.dislock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-aop-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gontoy.spring.SpringDemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gontoy.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DeathLockTest (1)" />
+      <item itemvalue="Application.DeathLockTest" />
+      <item itemvalue="HTTP Request.api | #1" />
+      <item itemvalue="Spring Boot.SpringDemoApplication" />
+      <item itemvalue="Spring Boot.DislockDemoApplication (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringDemoApplication" />
+        <item itemvalue="HTTP Request.api | #1" />
+        <item itemvalue="Application.DeathLockTest (1)" />
+        <item itemvalue="Application.DeathLockTest" />
+        <item itemvalue="Spring Boot.DislockDemoApplication (2)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="19487c54-94a1-4fcc-a6c2-6c3e99ad73d6" name="Changes" comment="" />
-      <created>1678348256042</created>
+      <changelist id="95971078-9aff-448b-af7d-5f653270de52" name="Changes" comment="" />
+      <created>1683215520240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678348256042</updated>
-      <workItem from="1678348257358" duration="320000" />
-      <workItem from="1678348695553" duration="26000" />
-      <workItem from="1678348926597" duration="101000" />
+      <updated>1683215520240</updated>
+      <workItem from="1683215521539" duration="2221000" />
+      <workItem from="1683217769067" duration="187000" />
+      <workItem from="1683254491076" duration="5000" />
+      <workItem from="1683274084129" duration="9196000" />
+      <workItem from="1683297811691" duration="3914000" />
+      <workItem from="1683354408450" duration="6000" />
+      <workItem from="1683371665208" duration="3830000" />
+      <workItem from="1683377350807" duration="3857000" />
+      <workItem from="1683448546066" duration="7811000" />
+      <workItem from="1683461344897" duration="2570000" />
+      <workItem from="1683463943570" duration="235000" />
+      <workItem from="1683464188400" duration="159000" />
+      <workItem from="1683464364362" duration="6462000" />
+      <workItem from="1683526920051" duration="61000" />
+      <workItem from="1683718240089" duration="433000" />
+      <workItem from="1683718684256" duration="198000" />
+      <workItem from="1683718903149" duration="1719000" />
+      <workItem from="1683795550295" duration="923000" />
+      <workItem from="1683867333776" duration="3000" />
+      <workItem from="1683963223693" duration="11282000" />
     </task>
     <servers />
   </component>
@@ -70,5 +270,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list" language="JAVA" />
+        <watch expression="list" language="JAVA" />
+        <watch expression="list" language="JAVA" />
+        <watch expression="list" language="JAVA" />
+        <watch expression="list" language="JAVA" />
+        <watch expression="list" language="JAVA" />
+        <watch expression="list" language="JAVA" />
+        <watch expression="list" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
