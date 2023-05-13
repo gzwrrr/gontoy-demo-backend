@@ -22,6 +22,16 @@
         <option value="$PROJECT_DIR$/spring-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-aop-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-demo/spring-aop-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/quarkus-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/quarkus-demo/getting-started/pom.xml" />
+        <option value="$PROJECT_DIR$/quarkus-demo/getting-started-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/quarkus-demo/getting-started-reactive-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/pom.xml" />
+        <option value="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/quartz-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/quartz-demo/primary/pom.xml" />
+        <option value="$PROJECT_DIR$/quartz-demo/quartz-primary/pom.xml" />
       </list>
     </option>
   </component>

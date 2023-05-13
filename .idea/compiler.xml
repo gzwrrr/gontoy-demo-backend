@@ -6,6 +6,8 @@
       <directory url="file://$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/mysql-demo/src/main/resources/archetype-resources" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/redis-demo/redission-demo/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/quarkus-demo/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/quartz-demo/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
@@ -14,17 +16,22 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mybatis-plus-demo" />
         <module name="arthas-demo" />
-        <module name="rabbitmq-demo" />
+        <module name="quarkus-getting-started-reactive-crud" />
         <module name="redis-demo" />
         <module name="dislock-demo" />
         <module name="monitoring-demo" />
         <module name="jedis-demo" />
         <module name="spring-demo" />
+        <module name="quarkus-getting-started-reactive" />
+        <module name="quarkus-getting-started" />
+        <module name="quartz-primary" />
         <module name="mysql-demo" />
         <module name="java-demo" />
+        <module name="intermediate" />
         <module name="queue-demo" />
         <module name="spring-aop-demo" />
         <module name="prometheus-demo" />
+        <module name="primary" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,6 +42,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dislock-demo" options="" />
       <module name="jedis-demo" options="-parameters" />
+      <module name="quarkus-getting-started" options="" />
+      <module name="quarkus-getting-started-reactive" options="" />
+      <module name="quarkus-getting-started-reactive-crud" options="" />
     </option>
   </component>
 </project>

@@ -6,14 +6,11 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.gontoy</groupId>
-    <artifactId>Gdemo-b</artifactId>
+    <artifactId>gontoy-demo-backend</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <modules>
-        <module>untitled</module>
-    </modules>
-    <name>Gdemo-b</name>
-    <description>Gdemo-b</description>
+    <name>gontoy-demo-backend</name>
+    <description>gontoy-demo-backend</description>
 
 
 </project>
