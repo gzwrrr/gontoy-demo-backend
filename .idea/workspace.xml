@@ -5,97 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95971078-9aff-448b-af7d-5f653270de52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-demo/src/main/java/com/gontoy/exception/ExceptionTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/main/docker/Dockerfile.jvm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/main/docker/Dockerfile.native" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/main/java/org/acme/reactive/crud/FruitResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/main/java/org/acme/reactive/crud/pojo/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/main/resources/META-INF/resources/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/test/java/org/acme/reactive/crud/FruitResourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive-crud/src/test/java/org/acme/reactive/crud/NativeFruitResourceIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/main/docker/Dockerfile.jvm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/main/docker/Dockerfile.native" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/main/java/org/acme/quickstart/ReactiveGreetingResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/main/java/org/acme/quickstart/ReactiveGreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/main/resources/META-INF/resources/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/test/java/org/acme/quickstart/NativeReactiveGreetingResourceIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started-reactive/src/test/java/org/acme/quickstart/ReactiveGreetingResourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/main/docker/Dockerfile.jvm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/main/docker/Dockerfile.native" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/main/java/org/acme/getting/started/GreetingResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/main/java/org/acme/getting/started/GreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/main/resources/META-INF/resources/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/test/java/org/acme/getting/started/GreetingResourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarkus-demo/quarkus-getting-started/src/test/java/org/acme/getting/started/NativeGreetingResourceIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/quartz-primary/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/quartz-primary/src/main/java/com/gontoy/quartz/start/HelloJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quartz-demo/quartz-primary/src/main/java/com/gontoy/quartz/start/HelloScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/IntermediateApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/config/ConfirmConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/config/DelayedQueueConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/config/MyCallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/config/TtlQueueConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/consumer/BackupConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/consumer/DeadLetterQueueConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/consumer/DelayedQueueConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/consumer/WarningConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/controller/ProducerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/controller/SendMessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/priority/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/priority/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/utils/RabbitMqUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/java/com/gontoy/rabbitmq/utils/SleepUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/intermediate/src/test/java/com/gontoy/rabbitmq/IntermediateApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/a_quick_start/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/a_quick_start/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/b_task_work/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/b_task_work/Worker01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/c_manual_response/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/c_manual_response/Worker021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/c_manual_response/Worker022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/d_data_persistence/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/d_data_persistence/Worker031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/e_release_confirmation/ConfirmMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/a_fanout/EmitLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/a_fanout/ReceiveLogs01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/a_fanout/ReceiveLogs02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/b_direct/EmitLogDirect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/b_direct/ReceiveLogsDirect01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/b_direct/ReceiveLogsDirect02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/c_topic/EmitLogTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/c_topic/ReceiveLogsTopic01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/f_exchange/c_topic/ReceiveLogsTopic02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/g_dead_letter_queue/Consumer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/g_dead_letter_queue/Consumer02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/g_dead_letter_queue/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/utils/RabbitMqUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/primary/src/main/java/com/gontoy/rabbitmq/utils/SleepUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/尚硅谷消息中间件RabbitMQ课件.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue-demo/rabbitmq-demo/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -460,7 +370,7 @@
       <workItem from="1683988834869" duration="727000" />
       <workItem from="1683990608825" duration="8000" />
       <workItem from="1683990646567" duration="109000" />
-      <workItem from="1683990761938" duration="1866000" />
+      <workItem from="1683990761938" duration="2160000" />
     </task>
     <servers />
   </component>

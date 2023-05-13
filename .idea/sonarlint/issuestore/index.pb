@@ -82,8 +82,6 @@ Y
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 q
 Ajava-demo/src/main/java/com/gontoy/exception/ExceptionTest01.java,7\2\72b55fb5d099b446739395973d9e16e7d7fa55cd
 B
